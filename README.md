@@ -1,1 +1,1 @@
-# tic-tac-toe-game
+# tic-tac-toe-game is a simple game which is based upon htm, css and javascript
